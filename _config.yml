@@ -10,10 +10,10 @@ baseurl: '/'
 ########################################################################################################################
 
 lang: en
-title: Dan Tsekhanskiy
-description: SRE from a Windows guy
+title: Marco Polo
+description: Medievalist. Thomist. Marquette.
 # A shorter description for the sidebar.
-tagline: SRE from a Windows guy
+tagline: Medievalist. Thomist. Marquette.
 
 keywords: [
   'PowerShell',
